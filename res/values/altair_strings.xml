@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Confirm Power Off selection on Power menu-->
+    <string name="confirm_shutdown_switch_title">Shutdown confirmation dialog</string>
+    <string name="confirm_shutdown_switch_desc">When shutdown button is tapped on power menu, add a dialog to confirm shutdown</string>
+
+</resources>
